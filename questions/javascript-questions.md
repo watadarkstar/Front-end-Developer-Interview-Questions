@@ -1,5 +1,12 @@
 # JS Questions:
 
+* What is the (function() { } )() construct in JavaScript IIFE? [see link](https://stackoverflow.com/questions/8228281/what-is-the-function-construct-in-javascript)
+* What is a closure, and how/why would you use one? [see video](https://www.youtube.com/watch?v=swU3c34d2NQ)
+* Explain how Promises works - [see stackoverflow](https://stackoverflow.com/questions/23772801/basic-javascript-promise-implementation-attempt/23785244#23785244)
+* `setTimeout` questions
+* What is the difference between a function expression and function declaration?
+
+
 * Explain event delegation
 * Explain how `this` works in JavaScript
 * Explain how prototypal inheritance works
@@ -8,7 +15,6 @@
   * What needs to be changed to properly make it an IIFE?
 * What's the difference between a variable that is: `null`, `undefined` or undeclared?
   * How would you go about checking for any of these states?
-* What is a closure, and how/why would you use one?
 * Can you describe the main difference between a `forEach` loop and a `.map()` loop and why you would pick one versus the other?
 * What's a typical use case for anonymous functions?
 * How do you organize your code? (module pattern, classical inheritance?)
